@@ -1,7 +1,1 @@
-kubesphere/ks-console:v4.1.2
-kubesphere/ks-controller-manager:v4.1.2
-kubesphere/ks-apiserver:v4.1.2
-kubesphere/redis:7.2.4-alpine
-kubesphere/haproxy:2.9.6-alpine
-kubesphere/kubectl:v1.27.16
-kubesphere/ks-extensions-museum:latest
+registry.k8s.io/metrics-server/metrics-server:v0.7.2
