@@ -1,1 +1,1 @@
-tigera/operator:v1.30.9
+registry.k8s.io/pause:3.8
