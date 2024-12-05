@@ -1,1 +1,2 @@
-registry.k8s.io/pause:3.8
+registry.k8s.io/ingress-nginx/controller:v1.5.1
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20220916-gd32f8c343
