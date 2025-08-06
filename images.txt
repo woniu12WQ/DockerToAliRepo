@@ -1,1 +1,1 @@
-busybox
+rancher:v2.11.4
