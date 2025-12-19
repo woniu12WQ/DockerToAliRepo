@@ -1,7 +1,1 @@
-rancher/rancher-agent:v2.11.0
-rancher/rancher:v2.11.0
-rancher/mirrored-grafana-grafana-image-renderer:3.10.5
-rancher/hyperkube:v1.32.3-rancher1
-rancher/mirrored-fluent-fluent-bit:3.1.8-debug
-rancher/ui-plugin-catalog:3.4.4
-rancher/neuvector-scanner:6
+rook/fio
