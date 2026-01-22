@@ -1,3 +1,3 @@
-jaegertracing/jaeger-es-index-cleaner:1.27
-prom/alertmanager:v0.23.0
-kubesphere/notification-tenant-sidecar:v3.2.0
+minio/minio:RELEASE.2019-08-07T01-59-21Z
+kubesphere/kube-rbac-proxy:v0.8.0
+kubesphere/notification-manager-operator:v1.4.0
